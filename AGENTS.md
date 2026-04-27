@@ -7,3 +7,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 # Git Repository Rules
 
 Do NOT directly modify, commit to, or push to the git repository unless explicitly instructed by the user. Keep the working tree clean.
+
+# Mobile vs PC Work
+
+Mobile Claude Code sessions must only work on independent repos or local-only tasks that are completely unrelated to PC work. Never mix mobile and PC work in the same repository.
